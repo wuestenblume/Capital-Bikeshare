@@ -11,22 +11,18 @@ Submission document is also under the main folder as BlueYonder_Zeynep.pdf.
 
 
 The Jupyter Notebook includes following sections:
-  1. Management of The Capital Bikeshare Dataset
-    
-    1.1 Importing Necessary Libraries
-    1.2.Importing The Data Set and Arranging
-  
-  2. Exploratory Data Analysis
-    
-    2.1. Overall Insight
-    2.2. Effect of The Season
-    2.3. Effect of The Weather Condition 
-    2.4. Effect of the Day Type
-    2.5. Effect of The Hours of The Day
-    2.6. Multi-Collinearity
-    2.7. Conclusion
-  
-  3. Prediction Model Building
-  
-  4. Test Driven Development
+
+- Management of The Capital Bikeshare Dataset
+  - Importing Necessary Libraries
+  - Importing The Data Set and Arranging  
+- Exploratory Data Analysis    
+  - Overall Insight
+  - Effect of The Season
+  - Effect of The Weather Condition 
+  - Effect of the Day Type
+  - Effect of The Hours of The Day
+  - Multi-Collinearity
+  - Conclusion  
+- Prediction Model Building  
+- Test Driven Development
    
